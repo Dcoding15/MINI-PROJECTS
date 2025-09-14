@@ -1,7 +1,6 @@
 # PROJECTS 
 
-This repository contains a collection of demo projects that showcase my foundational skills in **Python**, **Django**, **Django ORM**, and **Machine Learning**.  
-Each project demonstrates key concepts of backend web development and applied data science, highlighting how I use these tools to build practical solutions.  
+This repository contains a collection of demo projects that showcase my foundational skills in **Python**, **Django**, **Django ORM**, and **Machine Learning**. Each project demonstrates key concepts of backend web development and applied data science, highlighting how I use these tools to build practical solutions.  
 
 ---
 
