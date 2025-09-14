@@ -44,4 +44,4 @@ They are designed as **learning demos** and form the foundation for building mor
 ### Clone the repository  
 ```bash
 git clone https://github.com/Dcoding15/PROJECTS.git
-cd your-repo
+cd PROJECTS
