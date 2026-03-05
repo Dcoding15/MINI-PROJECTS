@@ -25,8 +25,6 @@ They are built to:
 **Tech Used:** HTML, CSS, Django  
 **Status:** Completed
 
----
-
 ### 2. TODO
 **Description:** A simple To-Do app to add, complete, and delete tasks easily.  
 **Tech Used:** HTML, CSS, Django  
