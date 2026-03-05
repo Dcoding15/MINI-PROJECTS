@@ -27,6 +27,15 @@ They are built to:
 
 ---
 
+## 📂 Projects List
+
+### 2. TODO
+**Description:** A simple To-Do app to add, complete, and delete tasks easily.  
+**Tech Used:** HTML, CSS, Django  
+**Status:** Completed
+
+---
+
 ## 🚀 Purpose
 
 The goal of these small projects is to:
