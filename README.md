@@ -1,46 +1,39 @@
-# PROJECTS 
+# Small Projects Collection
 
-This repository contains a collection of demo projects that showcase my foundational skills in **Python**, **Django**, **Django ORM**, and **Machine Learning**. Each project demonstrates key concepts of backend web development and applied data science, highlighting how I use these tools to build practical solutions.  
+This repository contains a collection of small projects created for practice, learning, and experimentation.
 
----
-
-## 🚀 Features  
-
-### Django Projects  
-- Django-based project structure  
-- CRUD operations with Django ORM  
-- Database models, migrations, and queries  
-- User authentication & session handling  
-- Basic templates and views  
-
-### Machine Learning Projects  
-- Data analysis using **Pandas** & **NumPy**  
-- Machine learning models with **Scikit-learn**  
-- Model persistence with **Joblib**  
-- Natural language processing (NLP) using **NLTK**  
-- Evaluation metrics and predictions  
+Each project is independent and focuses on a specific concept, feature, or technology.
 
 ---
 
-## 🎯 Purpose  
-These projects serve as demonstrations of my practical knowledge in Django web development and applied machine learning.  
-They are designed as **learning demos** and form the foundation for building more advanced, production-ready applications.  
+## 📌 About This Repository
+
+These are **mini-projects**, not large-scale applications.  
+They are built to:
+
+- Practice specific programming concepts
+- Experiment with new technologies
+- Improve problem-solving skills
+- Build consistency through small deliverables
 
 ---
 
-## 🛠 Tech Stack  
+## 📂 Projects List
 
-- **Language:** Python  
-- **Web Framework:** Django  
-- **Database:** SQLite (default, configurable to PostgreSQL/MySQL)  
-- **ML Libraries:** Scikit-learn, Pandas, NumPy, Joblib, NLTK  
-- **Tools:** Django ORM, Virtual Environment  
+### 1. TIC TAC TOE
+**Description:** A simple two-player Tic Tac Toe game played on a 3×3 grid.  
+**Tech Used:** HTML, CSS, Django  
+**Status:** Completed
 
 ---
 
-## ⚡ Getting Started  
+## 🚀 Purpose
 
-### Clone the repository  
-```bash
-git clone https://github.com/Dcoding15/PROJECTS.git
-cd PROJECTS
+The goal of these small projects is to:
+
+- Build hands-on experience
+- Strengthen fundamentals
+- Create a portfolio of practical work
+- Learn by doing
+
+---
