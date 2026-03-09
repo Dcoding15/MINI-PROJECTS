@@ -22,13 +22,15 @@ They are built to:
 
 ### 1. TIC TAC TOE
 **Description:** A simple two-player Tic Tac Toe game played on a 3×3 grid.  
-**Tech Used:** HTML, CSS, Django  
-**Status:** Completed
+**Tech Used:** HTML, CSS, Django
 
 ### 2. TODO
 **Description:** A simple To-Do app to add, complete, and delete tasks easily.  
-**Tech Used:** HTML, CSS, Django  
-**Status:** Completed
+**Tech Used:** HTML, CSS, Django
+
+### 2. Simple Mail Sender
+**Description:** A simple mail sender where users can compose and send emails directly through the application.  
+**Tech Used:** HTML, CSS, Django
 
 ---
 
